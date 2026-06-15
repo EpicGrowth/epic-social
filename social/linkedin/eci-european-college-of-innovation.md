@@ -15,7 +15,7 @@ An MFHEA-accredited Higher Education institution, ECI prepares students for care
 
 The coalition is built on the premise that AI governance cannot be left to technologists alone. The institutions shaping tomorrow's workforce need to be in that room. ECI is.
 
-Q4 2026 · Montekristo Estate, Malta 📍
+Q4 2026 · Malta 📍
 → deaisummit.org/partners/eci-european-college-of-innovation
 
 #DeAISummit #AIGovernance #Malta #HigherEducation #Europe

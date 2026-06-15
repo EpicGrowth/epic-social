@@ -43,7 +43,7 @@ An evidence gap of this scale, where claims are unanimous and production validat
 
 This is not a theoretical observation. Practitioners building decentralised AI infrastructure have begun presenting the governance gap to intergovernmental bodies. The asymmetry between what the private sector is building and what regulators and multilateral institutions understand has been named as a structural problem at the diplomatic level. The interest is real. What has been missing is the structured forum to convert it into durable governance output.
 
-DeAI Summit 2026 is that forum. Montekristo Estate, Malta. Q4 2026. Frontier AI lab founders, decentralised infrastructure builders, regulators, and capital allocators in the same room, with the structure to make the disagreement productive. The room is deliberately capped because the depth of the governance conversation, not the breadth of the audience, is the measure of success.
+DeAI Summit 2026 is that forum. Malta. Q4 2026. Frontier AI lab founders, decentralised infrastructure builders, regulators, and capital allocators in the same room, with the structure to make the disagreement productive. The room is deliberately capped because the depth of the governance conversation, not the breadth of the audience, is the measure of success.
 
 The field's primary claim has no production evidence. The definitional ground is contested. The barriers are interlocked. That is not a reason to wait. It is the reason the conversation has to start now, and it has to start with everyone in the room.
 

@@ -1,7 +1,7 @@
 # DeAI Summit 2026 — Social Content
 
 Curated, approved marketing content for the DeAI Summit 2026, a capped convening on
-AI governance. Malta, Q4 2026. Venue: Monte Kristo Estate, Is-Siġġiewi. Hosted by the
+AI governance. Malta, Q4 2026. Hosted by the
 HumanAIx Foundation. More at https://deaisummit.org
 
 ## What is here

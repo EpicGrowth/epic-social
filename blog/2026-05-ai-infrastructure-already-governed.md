@@ -57,7 +57,7 @@ A capped forum is not a smaller version of a large conference. It is a different
 
 ## Why Malta, specifically
 
-[IMAGE: Aerial view of Malta / Montekristo Estate, positioning Malta as the sovereign neutral ground]
+[IMAGE: Aerial view of Malta, positioning Malta as the sovereign neutral ground]
 
 Sovereign ground is not a detail here. An EU member state with its own functioning AI regulatory apparatus, positioned at the intersection of European, Mediterranean, Middle Eastern, and African markets and outside the direct orbit of the two dominant AI infrastructure powers, can host a conversation that does not belong to any single power bloc.
 
@@ -92,6 +92,6 @@ This is the first thing we're publishing. It won't be the last. The conversation
 
 Applications are open and reviewed on a rolling basis. Space is intentionally capped. If this conversation matters to you, apply now.
 
-[Apply at deaisummit.org →](https://deaisummit.org) | Q4 2026, Montekristo Estate, Malta
+[Apply at deaisummit.org →](https://deaisummit.org) | Q4 2026, Malta
 
 Already confirmed to speak: [deaisummit.org/speakers](https://deaisummit.org/speakers)
