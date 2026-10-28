@@ -1,17 +1,14 @@
-# DeAI Summit 2026 — Social Content
+# Epic Social
 
-Curated, approved marketing content for the DeAI Summit 2026, a capped convening on
-AI governance. Malta, Q4 2026. Hosted by the
-HumanAIx Foundation. More at https://deaisummit.org
+Public social-media assets for distinct projects. Material here is not automatically approved for publication.
 
-## What is here
+| Path | Project | Status |
+|------|---------|--------|
+| `social/epic-growth/demo-workspaces/2026-10/` | Epic Growth Demo Workspace carousel proposals | Draft creative; not scheduled or published |
+| `social/linkedin/`, `social/x/`, `blog/` | DeAI Summit 2026, hosted by the HumanAIx Foundation | Previously curated public content; kept intact |
 
-| Path | Contents |
-|------|----------|
-| `social/linkedin/` | LinkedIn cards (1080x1080) and approved post copy |
-| `social/x/` | X cards (1080x1080) |
-| `blog/` | Long-form thought-leadership posts |
+The DeAI Summit and Epic Growth are separate projects. The existing DeAI Summit assets were not rewritten or replaced. More on that project: https://deaisummit.org
 
-These are the published, approved assets only. Drafts and working renders are kept elsewhere.
+See the Demo Workspace [asset manifest](social/epic-growth/demo-workspaces/2026-10/README.md) for slide order, disclosures and intended use. Public files may be fetched by publishing tools; **do not publish or schedule any of these carousel proposals without JP's final approval**.
 
-© Epic Growth and the DeAI Summit 2026 project. All rights reserved.
+© Epic Growth and the respective project owners. All rights reserved.
