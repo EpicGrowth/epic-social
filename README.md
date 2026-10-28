@@ -9,6 +9,6 @@ Public social-media assets for distinct projects. Material here is not automatic
 
 The DeAI Summit and Epic Growth are separate projects. The existing DeAI Summit assets were not rewritten or replaced. More on that project: https://deaisummit.org
 
-See the Demo Workspace [asset manifest](social/epic-growth/demo-workspaces/2026-10/README.md) for slide order, disclosures and intended use. Public files may be fetched by publishing tools; **do not publish or schedule any of these carousel proposals without JP's final approval**.
+[Review the carousels as swipeable sequences](https://epicgrowth.github.io/epic-social/) or see the Demo Workspace [asset manifest](social/epic-growth/demo-workspaces/2026-10/README.md) for slide order, disclosures and intended use. Public files may be fetched by publishing tools; **do not publish or schedule any of these carousel proposals without JP's final approval**.
 
 © Epic Growth and the respective project owners. All rights reserved.
