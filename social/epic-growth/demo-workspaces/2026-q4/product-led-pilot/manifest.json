@@ -1,0 +1,29 @@
+{
+  "hotel-booking": {
+    "instagram": [
+      "https://epicgrowth.github.io/epic-social/social/epic-growth/demo-workspaces/2026-q4/product-led-pilot/hotel-booking/hotel-booking-option-b-1-motion-dark.mp4",
+      "https://epicgrowth.github.io/epic-social/social/epic-growth/demo-workspaces/2026-q4/product-led-pilot/hotel-booking/hotel-booking-2-dark.png",
+      "https://epicgrowth.github.io/epic-social/social/epic-growth/demo-workspaces/2026-q4/product-led-pilot/hotel-booking/hotel-booking-3-dark.png",
+      "https://epicgrowth.github.io/epic-social/social/epic-growth/demo-workspaces/2026-q4/product-led-pilot/hotel-booking/hotel-booking-4-dark.png"
+    ],
+    "static": "https://epicgrowth.github.io/epic-social/social/epic-growth/demo-workspaces/2026-q4/product-led-pilot/hotel-booking/hotel-booking-cover-option-b-dark.png"
+  },
+  "retail-stockout": {
+    "instagram": [
+      "https://epicgrowth.github.io/epic-social/social/epic-growth/demo-workspaces/2026-q4/product-led-pilot/retail-stockout/retail-stockout-1-motion-light.mp4",
+      "https://epicgrowth.github.io/epic-social/social/epic-growth/demo-workspaces/2026-q4/product-led-pilot/retail-stockout/retail-stockout-2-light.png",
+      "https://epicgrowth.github.io/epic-social/social/epic-growth/demo-workspaces/2026-q4/product-led-pilot/retail-stockout/retail-stockout-3-light.png",
+      "https://epicgrowth.github.io/epic-social/social/epic-growth/demo-workspaces/2026-q4/product-led-pilot/retail-stockout/retail-stockout-4-light.png"
+    ],
+    "static": "https://epicgrowth.github.io/epic-social/social/epic-growth/demo-workspaces/2026-q4/product-led-pilot/retail-stockout/retail-stockout-1-light.png"
+  },
+  "estate-enquiry": {
+    "instagram": [
+      "https://epicgrowth.github.io/epic-social/social/epic-growth/demo-workspaces/2026-q4/product-led-pilot/estate-enquiry/estate-enquiry-1-motion-dark.mp4",
+      "https://epicgrowth.github.io/epic-social/social/epic-growth/demo-workspaces/2026-q4/product-led-pilot/estate-enquiry/estate-enquiry-2-dark.png",
+      "https://epicgrowth.github.io/epic-social/social/epic-growth/demo-workspaces/2026-q4/product-led-pilot/estate-enquiry/estate-enquiry-3-dark.png",
+      "https://epicgrowth.github.io/epic-social/social/epic-growth/demo-workspaces/2026-q4/product-led-pilot/estate-enquiry/estate-enquiry-4-dark.png"
+    ],
+    "static": "https://epicgrowth.github.io/epic-social/social/epic-growth/demo-workspaces/2026-q4/product-led-pilot/estate-enquiry/estate-enquiry-1-dark.png"
+  }
+}
