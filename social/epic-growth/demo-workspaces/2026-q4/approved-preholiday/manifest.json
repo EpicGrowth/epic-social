@@ -1,0 +1,32 @@
+{
+  "hotel-room-ready": {
+    "static": "https://epicgrowth.github.io/epic-social/social/epic-growth/demo-workspaces/2026-q4/approved-preholiday/hotel-room-ready/hotel-room-ready-cover.png",
+    "instagram": [
+      "https://epicgrowth.github.io/epic-social/social/epic-growth/demo-workspaces/2026-q4/approved-preholiday/hotel-room-ready/hotel-room-ready-motion.mp4",
+      "https://epicgrowth.github.io/epic-social/social/epic-growth/demo-workspaces/2026-q4/approved-preholiday/hotel-room-ready/hotel-room-ready-2.png",
+      "https://epicgrowth.github.io/epic-social/social/epic-growth/demo-workspaces/2026-q4/approved-preholiday/hotel-room-ready/hotel-room-ready-3.png",
+      "https://epicgrowth.github.io/epic-social/social/epic-growth/demo-workspaces/2026-q4/approved-preholiday/hotel-room-ready/hotel-room-ready-4.png"
+    ]
+  },
+  "retail-cover-policy": {
+    "static": "https://epicgrowth.github.io/epic-social/social/epic-growth/demo-workspaces/2026-q4/approved-preholiday/retail-cover-policy/retail-cover-policy-cover.png",
+    "instagram": [
+      "https://epicgrowth.github.io/epic-social/social/epic-growth/demo-workspaces/2026-q4/approved-preholiday/retail-cover-policy/retail-cover-policy-cover.png"
+    ]
+  },
+  "estate-lease-owner": {
+    "static": "https://epicgrowth.github.io/epic-social/social/epic-growth/demo-workspaces/2026-q4/approved-preholiday/estate-lease-owner/estate-lease-owner-cover.png",
+    "instagram": [
+      "https://epicgrowth.github.io/epic-social/social/epic-growth/demo-workspaces/2026-q4/approved-preholiday/estate-lease-owner/estate-lease-owner-motion.mp4",
+      "https://epicgrowth.github.io/epic-social/social/epic-growth/demo-workspaces/2026-q4/approved-preholiday/estate-lease-owner/estate-lease-owner-2.png",
+      "https://epicgrowth.github.io/epic-social/social/epic-growth/demo-workspaces/2026-q4/approved-preholiday/estate-lease-owner/estate-lease-owner-3.png",
+      "https://epicgrowth.github.io/epic-social/social/epic-growth/demo-workspaces/2026-q4/approved-preholiday/estate-lease-owner/estate-lease-owner-4.png"
+    ]
+  },
+  "hotel-rates-capacity": {
+    "static": "https://epicgrowth.github.io/epic-social/social/epic-growth/demo-workspaces/2026-q4/approved-preholiday/hotel-rates-capacity/hotel-rates-capacity-cover.png",
+    "instagram": [
+      "https://epicgrowth.github.io/epic-social/social/epic-growth/demo-workspaces/2026-q4/approved-preholiday/hotel-rates-capacity/hotel-rates-capacity-cover.png"
+    ]
+  }
+}
